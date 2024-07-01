@@ -20,7 +20,7 @@ body{
 .container{
     border-radius: 10px;
     width: 20%;
-    height: 59%;
+    height: auto;
     padding: 30px;
     background-color: hsl(216, 50%, 16%);
     margin-bottom: 10px;
