@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
     /*Set the height of the body to full viewport height. Takes up full height of the visible screen*/
-    height: 100vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
